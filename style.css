@@ -1,0 +1,38 @@
+table {
+    font-family: "Lucida Grande";
+    width: 100%;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+body{
+    font-family: "Lucida Grande";
+    font-size: 32px;
+    vertical-align: top;
+    background: #b7e5ff;
+    text-align: center;
+    color: navy;
+}
+
+button{
+    font-family: "American Typewriter";
+    font-size: 18px;
+    width: 120px;
+    height: 90px;
+    color: white;
+    background: navy;
+}
+
+#selectIdBox{
+    width: 120px;
+    height: 90px;
+    font-family:"American Typewriter";
+    font-size: 18px;
+}
